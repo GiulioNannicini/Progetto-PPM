@@ -1,0 +1,48 @@
+
+
+.lineaNera{
+    border: 1px solid black;
+}
+
+.lineaRossa {
+    border: 1px solid red;
+}
+
+#cardMobile {
+    display: none;
+}
+
+
+@media screen and (max-width: 768px ) and (min-width: 0px) {
+    
+    article {
+        margin-top: 88px;
+    }
+
+    #cardMobile {
+        display: flex;
+    }
+
+    #cardDesktop {
+        display: none;
+    }
+
+    #CardTestoResponsive {
+        position: absolute;
+        bottom: 36%;
+        
+    }
+
+    #containerArticoli > .row {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        
+    }
+
+    #containerArticoli > .row > .col-md-12 {
+        display: inline-block;
+    }
+
+
+}    

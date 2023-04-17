@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600;700&display=swap');
+
+body, * {
+    font-family: 'Work Sans', sans-serif !important;
+}
+
+#NavCerca {
+    font-family: 'Work Sans', sans-serif;
+    height: 42px;
+    padding: 10px;
+    background-color: white;
+}
+
+#listaSocial ul li a, #Cerca a {
+    font-size: 14px;
+}
+
+#NavCentrale {
+    height: 105px;
+    background-color: #104877;
+}
+
+#NavOpzioni {
+    height: 38px;
+    background-color: #dbeaf7;
+}
+
+#NavScrollGrande {
+    height: 56px;
+    background-color: #104877;
+    display: none;
+}
+
+#NavPiccoloUno {
+    height: 60px;
+    background-color: #104877;
+    display: none;
+}
+
+#NavPiccoloDue {
+    height: 45px;
+    background-color: white;
+    display: none;
+}
+
+@media screen and (max-width:1560px) and (min-width: 769px ) {
+   
+    #NavScroll {
+    overflow-x:scroll; 
+    overflow-y: hidden; 
+    max-width: 980px; 
+    height: 50px;
+   }
+
+   #NavScroll ul {
+    width: 1025px;
+    
+   }
+
+   #ColonnaLinkLiberoTVEdicoladigitale ul li{
+    display: inline;
+    margin-left: -18px;
+   }
+}
+
+@media screen and (max-width: 787px) and (min-width: 769px){
+    #Argomenti ul {
+        display: -webkit-inline-box;
+    }
+}
+
+
+@media screen and (max-width: 768px ) and (min-width: 0px) {
+    
+    nav {
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        z-index: 1030;
+    }
+
+    #NavCerca, #NavCentrale, #NavOpzioni, #NavScrollGrande {
+        display: none !important; 
+    }
+
+    #NavPiccoloUno, #NavPiccoloDue {
+        display: flex; 
+    }
+
+
+}    
