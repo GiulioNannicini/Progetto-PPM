@@ -27,11 +27,6 @@
         display: none;
     }
 
-    #CardTestoResponsive {
-        position: absolute;
-        bottom: 36%;
-        
-    }
 
     #containerArticoli > .row {
         display: block;
