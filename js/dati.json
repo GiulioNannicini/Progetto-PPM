@@ -1,0 +1,42 @@
+[
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 1",
+        "titoloArticolo": "Articolo 1"
+    }, 
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 2",
+        "titoloArticolo": " Articolo 2"
+    },
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 3",
+        "titoloArticolo": " Articolo 3"
+    },
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 4",
+        "titoloArticolo": " Articolo 4"
+    },
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 5",
+        "titoloArticolo": " Articolo 5"
+    },
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 6",
+        "titoloArticolo": " Articolo 6"
+    },
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 7",
+        "titoloArticolo": " Articolo 7"
+    },
+    {
+        "img": "https://via.placeholder.com/300x160/cfcfcf/ffffff?text=Post",
+        "titoloAlto": " Lorem Ipsum 8",
+        "titoloArticolo": " Articolo 8"
+    }
+]
